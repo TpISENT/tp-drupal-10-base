@@ -54,6 +54,7 @@
         "drupal/redirect": "^1.8",
         "drupal/seckit": "^2.0",
         "drupal/smtp": "^1.2",
+        "drupal/social_auth": "^4.0",
         "drupal/state_machine": "^1.8",
         "drupal/taxonomy_manager": "^2.0",
         "drupal/tfa": "^2.0@alpha",
