@@ -62,6 +62,7 @@
         "drupal/social_auth_linkedin": "^4.0",
         "drupal/social_auth_microsoft": "^4.0",
         "drupal/state_machine": "^1.8",
+        "drupal/switch_page_theme": "^4.0",
         "drupal/taxonomy_manager": "^2.0",
         "drupal/tfa": "^2.0@alpha",
         "drupal/toastify": "^1.0@beta",
