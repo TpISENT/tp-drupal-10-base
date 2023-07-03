@@ -94,6 +94,7 @@
         "drupal/webform_views": "^5.1",
         "drupal/webform_views_extras": "^2.0",
         "drupal/webform_workflows_element": "^1.0@alpha",
+        "drupal/whatsapp": "^1.0",
         "drupal/yasm": "^2.0",
         "drush/drush": "^12.1"
     },
